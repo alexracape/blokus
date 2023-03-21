@@ -1,5 +1,5 @@
 import unittest
-from board import Board
+from blokus.board import Board
 
 
 class MyTestCase(unittest.TestCase):

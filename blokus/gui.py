@@ -1,4 +1,4 @@
-from board import Board
+from blokus.board import Board
 
 # create a gui for the board with the pieces for each player
 # each player has a different color for their pieces, and they can rotate or flip the pieces before playing them

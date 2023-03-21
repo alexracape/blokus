@@ -1,4 +1,4 @@
-import pieces
+from blokus import pieces
 
 
 class Player:
